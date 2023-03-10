@@ -21,12 +21,7 @@ var (
 const KuteGoAPIURL = "https://kutego-api-4vypnh4oia-uc.a.run.app" // This is running own my own Google Cloud Instance
 
 func init() {
-	flag.StringVar(
-		&Token,
-		"k",
-		"",
-		"Bot Token",
-	) // This defines the variable after doing go run main.go "k" being -k $BOT_TOKEN & BOT_TOKEN is an exported value
+	flag.StringVar(&Token, "t", "", "Bot Token")
 	flag.Parse()
 }
 
