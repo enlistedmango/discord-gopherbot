@@ -13,10 +13,8 @@ I want a discord bot that will;
 
 When writing this, I used the folloing resources;
 
-- [DiscordGo](https://github.com/bwmarrin/discordgo)
-  DiscordGo is the most comprehensive Go Package that provides low level bindings to the Discord chat client API. It has nearly complete support for all of the Discord API endpoints, websocket interfaces, and voice interfaces.
-- [Kutego API](https://github.com/gaelleacas/kutego-api)
-  KuteGo is an API to play around with [Aurelie Vache's Gophers](https://github.com/scraly/gophers)
+- [DiscordGo](https://github.com/bwmarrin/discordgo) // DiscordGo is the most comprehensive Go Package that provides low level bindings to the Discord chat client API. It has nearly complete support for all of the Discord API endpoints, websocket interfaces, and voice interfaces.
+- [Kutego API](https://github.com/gaelleacas/kutego-api) // KuteGo is an API to play around with [Aurelie Vache's Gophers](https://github.com/scraly/gophers)
 
 ## Discord Prerequisites
 
